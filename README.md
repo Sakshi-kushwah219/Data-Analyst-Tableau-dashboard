@@ -13,6 +13,19 @@ The dashboard is built using **Tableau Desktop Public Edition**, demonstrating p
 
 ---
 
+## ⏱️ Epoch Time Conversion
+
+As part of the data preprocessing, one of the key steps was **converting timestamp fields to epoch time format** to make them compatible with Tableau’s date and time functions.
+
+📄 Sample Conversion File:  
+[Epoch Time Conversion – Google Drive](https://drive.google.com/file/d/1rs2vWTO0UJun8E2ybp4BetjckZXtSfDc/view?usp=sharing)
+
+This step helped in:
+- Handling time-based filters and calculations.
+- Creating year, month, and quarter-based insights from raw timestamp data.
+  
+---
+
 ## 🎯 Project Objectives
 
 - Visualize the performance of crowdfunding campaigns by goal range, category, and location.
